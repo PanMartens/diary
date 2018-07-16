@@ -37,4 +37,3 @@ ReactDOM.render(
 );
 
 registerServiceWorker();
-//pobaw sie tu routami ogarnij troche jak to dziala
