@@ -1,0 +1,17 @@
+#listPublicUsers {
+  width: 50%;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  border: 1px solid rgb(65, 209, 161);
+}
+
+.elementPublicUser {
+  display: list-item;
+  clear: both;
+  display: block;
+  width: 100%;
+  text-align: center;
+  padding: 15px 0px 15px 0px;
+}

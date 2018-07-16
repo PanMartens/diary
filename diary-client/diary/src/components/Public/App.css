@@ -1,0 +1,72 @@
+body {
+  background: radial-gradient(rgb(102, 102, 102), rgb(49, 49, 49));
+  color: rgb(223, 223, 223);
+}
+
+#root {
+  height: 90vh;
+}
+h1 {
+  font-size: 50px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+  text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+
+h2 {
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+  text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+
+#formArea {
+  margin-right: auto;
+  margin-left: auto;
+  background: rgb(65, 65, 65);
+  padding: 20px;
+  text-align: center;
+  border: solid 1px rgb(65, 209, 161);
+  width: 300px;
+  border-radius: 5px;
+}
+
+.App {
+  text-align: center;
+}
+
+input {
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 20px;
+  width: 220px;
+  border-radius: 5px;
+  display: block;
+  font-family: "Times New Roman", Times, serif;
+  padding: 5px;
+  border: solid 1px rgb(110, 110, 110);
+}
+
+#submit {
+  background: rgb(177, 176, 176);
+}
+#submit:hover {
+  background: rgb(138, 137, 137);
+  border: solid 1px rgb(11, 168, 116);
+}
+
+#Register {
+  font-size: 15px;
+  border-radius: 5px;
+  background: rgb(177, 176, 176);
+  font-family: Verdana, Tahoma, sans-serif;
+  padding: 5px;
+  color: rgb(12, 11, 11);
+  border: solid 1px rgb(65, 209, 161);
+}
+#Register:hover {
+  background: rgb(138, 137, 137);
+  border: solid 1px rgb(11, 168, 116);
+}

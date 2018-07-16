@@ -1,0 +1,31 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(48, 47, 47);
+  border-bottom: solid rgb(65, 209, 161);
+}
+
+li {
+  float: left;
+}
+
+#logOut {
+  float: right;
+}
+
+li {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 40px;
+  font-size: 20px;
+  color: azure;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li:hover {
+  background-color: rgb(70, 69, 69);
+}

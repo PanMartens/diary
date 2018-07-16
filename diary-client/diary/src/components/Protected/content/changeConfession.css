@@ -1,0 +1,33 @@
+#changeButton {
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+
+  background: rgb(177, 176, 176);
+}
+
+#deleteButton {
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+  margin-left: 20%;
+  background: rgb(177, 176, 176);
+}
+
+#deleteButton:hover {
+  background: rgb(138, 137, 137);
+  border: solid 1px rgb(11, 168, 116);
+}
+
+#changeButton:hover {
+  background: rgb(138, 137, 137);
+  border: solid 1px rgb(11, 168, 116);
+}

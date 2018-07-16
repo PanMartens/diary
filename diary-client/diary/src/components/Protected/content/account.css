@@ -1,0 +1,35 @@
+#changeButton {
+  font-size: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 10px;
+  border-radius: 5px;
+
+  background: rgb(177, 176, 176);
+}
+
+#changeButton:hover {
+  background: rgb(138, 137, 137);
+  border: solid 1px rgb(11, 168, 116);
+}
+
+#selectField {
+  margin-top: 10px;
+  border-radius: 5px;
+  font-size: 15px;
+  padding: 5px;
+}
+
+#selectField:hover {
+  background: rgb(138, 137, 137);
+  border: solid 1px rgb(11, 168, 116);
+}
+option {
+  background: rgb(138, 137, 137);
+}
+
+.dataFields {
+  margin-top: 20px;
+}
